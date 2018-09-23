@@ -1,37 +1,213 @@
 ##hello world
-
-You can use the [editor on GitHub](https://github.com/OYX233/MYHTML/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OYX233/MYHTML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+灵魂力量
+革命机
+鲁鲁修
+高达MS08
+红线
+出包王女
+恶魔高校
+记忆女神的女儿们
+杀戮都市
+愿此刻永恒
+空之境界痛觉残留篇
+潮与虎
+百花缭乱
+圣痕炼金术士
+B型H系
+鹦鹉女神
+猫耳玩伴娘
+零度战姬
+我老婆是学生会长
+我的朋友很少
+染红的街道
+极黑的布伦希尔德
+魔乳秘剑帖
+魔具少女
+请认真和我恋爱
+星刻龙骑士
+迷茫管家与懦弱的我
+女王之刃
+你是主人我是仆
+鲁邦三世 名为不二峰子的女人
+强袭魔女
+腹黑妹妹控兄记
+灰色的果实
+恋姬无双
+健全机斗士
+我要成为世界最强
+绝命制裁x
+恋姬无双
+攻壳机动队
+绝对冲击
+一骑当千
+百花缭乱
+壳之少女
+校园默示录
+秋色之空
+圣剑锻造师
+R-15
+b型h系
+亲吻姐姐
+鹡鸰女神
+公主恋人
+无限斯特拉托斯
+我的狐仙女友
+未来日记
+天使与龙的轮舞
+祝福的钟声
+无赖勇者的鬼畜美学
+美少女死神还我h之魂
+十支架与吸血鬼
+黑礁
+肯普法
+神圣骑士
+天上天下
+这个是僵尸吗
+散华礼弥
+孔中窥见真理之貌
+我们没有翅膀
+打工声优
+姐姐的妄想日记
+七人魔法使
+星刻的龙骑士
+飞跃巅峰
+超级机器人大战Og
+授课至天亮chu
+绝命制裁X
+伊里野的天空
+魔力女管家
+美丽丑陋新世界
+花右京女佣队
+魔法先生涅吉剧场版 
+我们没有翅膀
+女生万岁 
+这个是僵尸吗 
+最后大魔王
+传颂之物ova1
+中学生的艳遇
+LOVELOVE恋
+钟之音学院
+假面女仆
+三人行必有我妹 
+shuffle
+红辣椒
+警犬救护队?!(shangmei)
+EVA旧剧场版真心为你
+枪械少女！！QAD
+冥王计划
+乐园追放
+强袭魔女
+极黑的布伦希尔特
+纯白交响曲
+高达0079
+宇宙骑士2 
+超重神 
+女武神驱动
+至高指令 
+魔剑姬!通
+真恋姬无双OVA
+怪怪守护神（？）
+管家后宫学园
+R-16:处女任务
+依丝卡
+科学家们
+想成为世界最强
+秋日天空 ～梦之中～
+魔物娘的同居日常
+低俗灵
+灰色的果实
+灰色的迷宫
+灰色的乐园
+蓝华·零
+风夏
+甜蜜惩罚 我是看守专用宠物 
+七美德 
+我老婆是学生会长OAD 
+恶魔人 Crybaby 
+魔法科高校的劣等生 呼唤星辰的少女 
+25岁的女高中生
+相亲对象是自己的学生，强势的问题儿童 
+刀剑神域：序列之争 
+杀戮都市：O GANTZ:O
+裙子里面是野兽
+船长哈洛克
+软式网球社
+海底娇娃蓝华 AIKa
+七宗罪 sin 七つの大罪
+未麻的部屋
+速写者 Speed Grapher
+闪乱神乐
+亡国的阿基德
+美鸟伴身边
+鱼 ギョ
+魔法学园MA
+11eyes OVA 11eyes 桃色幻夢譚
+希德尼娅的骑士 第一季
+剧场版 BLOOD-C 
+少女骑士物语 
+白银的意志 ARGEVOLLEN
+圣剑锻造师
+想成为世界最强
+绯色战姬
+日本国有铁道公安队
+下流梗不存在的灰暗世界
+没能做成勇者的我无可奈何的决定去工作
+寻找遗失的未来 
+花右京女仆队 
+乐园追放
+壳中少女 
+境界线上的地平线Ⅱ
+未来日记
+公立海老栖川高校天闷部
+飞轮少年
+望实与君雄
+十字架与吸血姬
+请别忧伤了二之宫君
+最近，妹妹的样子有点怪
+比基尼勇士
+桃剑
+魔力充电娘
+机巧少女不会受伤
+偷窥的小洞OVA
+RescueMe! 救救草食系的我吧 OVA
+吸血鬼同盟
+机械女仆 
+这就是我的主人
+绝对纯白魔法少女
+青春CUP
+無邪気の楽園？
+真盖塔
+高达V
+new game
+宇宙骑士
+魔神凯撒
+种命
+机动战士Z高达
+高达zz
+全金属狂潮3
+饿狼传说OVA
+胜利女排
+智代篇
+美鸟日记
+机动战士高达逆A
+高达0083
+樱Trick
+海贼王
+学园默示录OVA
+捏造陷阱NTR
+我的女友是个过度认真的处女碧池
+超时空要塞F
+福星小子
+乱马1/2
+人鱼之森91OVA
+甜心战士
+间之楔
+猫眼三姐妹
+这个美丽而又丑陋的世界
+天才小钓手
+真知子老师
+超能力魔美
+忍者哈特利
+剑豪生死斗
+北斗神拳
+仓鼠管家
